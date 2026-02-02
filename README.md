@@ -1,0 +1,2 @@
+# A-B-Testing-Analysis-Website-Conversion-Optimization
+This project evaluates the impact of a new website experience (treatment group) compared to the existing version (control group) using A/B testing methodology.  The analysis demonstrates an end-to-end experimentation workflow, including data cleaning, exploratory analysis, hypothesis testing, and business interpretation using realistic, messy data.
